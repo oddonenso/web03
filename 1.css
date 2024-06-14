@@ -1,0 +1,26 @@
+.rim{
+    list-style-type: lower-roman;
+}
+.rimBig {
+    list-style-type: upper-roman;
+}
+
+.none {
+   list-style-type: none; 
+}
+body ol {
+  list-style-type: decimal-leading-zero;
+}
+
+.sobori {
+    list-style-image: url(images/1.png);
+}
+.venezia {
+    list-style-type: circle;
+}
+.eng{
+    list-style-type: lower-alpha;
+}
+.square{
+    list-style-image: url(images/1.png);
+}
